@@ -1,16 +1,14 @@
-## Hi there 👋
+# Veymont Supply Website
 
-<!--
-**veymontsupply/veymontsupply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Static B2B wholesale website for Veymont Supply.
 
-Here are some ideas to get you started:
+## Before publishing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Replace `REPLACE_WITH_YOUR_FORM_ID` in `index.html` with your Formspree form ID.
+2. Replace the placeholder contact details if desired.
+3. Upload the files to a GitHub repository.
+4. Enable GitHub Pages from the repository's Pages settings.
+5. Set the custom domain to `veymontsupply.com`.
+6. Configure DNS records at your domain registrar.
+
+The included `CNAME` file is already set to `veymontsupply.com`.
